@@ -50,7 +50,7 @@ CUME_DIST(): Shows proportion of customers below or equal to current revenue. Va
 Step 6: Results Analysis
 Descriptive – What happened?
 Top-performing customers: generated the highest total revenue (e.g., Alexis Ishimwe had 550,000 across multiple transactions).
-Revenue trends:show some customers made frequent smaller purchases while others made fewer high-value purchases.
+Revenue trends:identify some customers made frequent smaller purchases while others made fewer high-value purchases.
 Outliers: Certain customers like John Doe had lower total revenue, indicating infrequent purchases.
 Quartile segmentation shows that revenue is unevenly distributed: top 25% of customers contribute a large portion of total sales.
 
